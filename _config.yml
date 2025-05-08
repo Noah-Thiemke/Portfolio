@@ -1,6 +1,5 @@
-title: Projects
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: solarized
+title: Noah Thiemke
+description: hello
+logo: /downloads/Noah_thiemke.jpeg
+show_downloads: false
+theme: jekyll-theme-minimal
