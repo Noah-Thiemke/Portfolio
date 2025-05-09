@@ -7,12 +7,12 @@
 B.S., Statistics & Analytics | B.A., Economics | Data Science Minor
 
 ## Relevant Coursework
-- **STOR 235 - Mathematics for Data Science**
-  - I did this and this and this and this and this and this and this and this and this and this and this and this and this and this and this and this and this and this
-- **STOR 320 - Introduction to Data Science**
-  - I did that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and
-- **STOR 455 - Methods of Data Analysis**
-  - I did that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and
+**STOR 235 - Mathematics for Data Science**
+- I did this and this and this and this and this and this and this and this and this and this and this and this and this and this and this and this and this and this
+**STOR 320 - Introduction to Data Science**
+- I did that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and
+**STOR 455 - Methods of Data Analysis**
+- I did that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and
 
 ## Projects
 
