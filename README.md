@@ -9,15 +9,15 @@ B.S., Statistics & Analytics | B.A., Economics | Data Science Minor
 ## Relevant Coursework
 **STOR 235 - Mathematics for Data Science**
 
-A course focused on matrix algebra and multivariable calculus, with weekly labs done in python to gain an understanding of the use and applications of mathematical concepts in programming. Lab topics covered many machine learning and optimization topics, including support vector machines, predictive modeling, principal component analysis, and neural networks.
+A course focused on matrix algebra and multivariable calculus, with weekly labs done in python to gain an understanding of the use and applications of mathematical concepts in programming. Lab topics covered machine learning and optimization topics, including support vector machines, principal component analysis, and neural networks.
 
 **STOR 320 - Introduction to Data Science**
 
-A course providing comprehensive instruction in R and RStudio, with a focus on the full data analytics pipeline. Emphasis was placed on data acquisition, cleaning, transformation, exploratory analysis, and visualization. The course also covered principles of statistical inference and model building, alongside best practices for interpreting and communicating results effectively to both technical and non-technical audiences.
+A course providing comprehensive instruction in R and RStudio, with a focus on the full data analytics pipeline. Emphasis was placed on data acquisition, cleaning, transformation, exploratory analysis, and visualization. The course also covered principles of model building and evaluation such as cross-validation and sensitivity/specificity, alongside best practices for communicating results effectively.
 
 **STOR 455 - Methods of Data Analysis**
 
-I did that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and
+A course focused on comparing statistical approaches for data analysis. Topics included simple and multiple linear regression, hypothesis testing, ANOVA, and nested F-tests. The course also explored strategies for identifying optimal models using criteria such as AIC and BIC, as well as variable selection techniques such as stepwise selection. 
 
 ## Projects
 
