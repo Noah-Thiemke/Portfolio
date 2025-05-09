@@ -21,3 +21,5 @@ B.S., Statistics & Analytics | B.A., Economics | Data Science Minor
 [Read the Report](docs/Final_paper_submission-2.html)
 
 We did that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and
+
+![UNC Logo](assets/images/UNC.png)
