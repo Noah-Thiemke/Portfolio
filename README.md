@@ -22,4 +22,6 @@ B.S., Statistics & Analytics | B.A., Economics | Data Science Minor
 
 We did that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and
 
-![UNC Logo](assets/images/UNC.png)
+<div align="center">
+  <img src="assets/images/UNC.png" alt="Logo">
+</div>
