@@ -16,7 +16,7 @@ B.S., Statistics & Analytics | B.A., Economics | Data Science Minor
 
 ## Projects
 
-**Exploring Recency Bias and Outcome Prediction in UFC 3-Round Decisions**
+**Exploring Recency Bias and Outcome Prediction in UFC Fights**
 
 [Read the Report](docs/Final_paper_submission-2.html)
 
