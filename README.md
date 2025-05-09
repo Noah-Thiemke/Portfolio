@@ -29,5 +29,5 @@ A course focused on comparing statistical approaches for data analysis. Topics i
 We did that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and
 
 <div align="center">
-  <img src="assets/images/UNC.png" alt="Logo">
+  <img src="assets/images/UNC.png" alt="UNC Logo" width="300">
 </div>
