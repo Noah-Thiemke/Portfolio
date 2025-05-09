@@ -9,7 +9,7 @@ B.S., Statistics & Analytics | B.A., Economics | Data Science Minor
 ## Relevant Coursework
 **STOR 235 - Mathematics for Data Science**
 
-A course focused on matrix algebra and multivariable calculus, with weekly labs done in python to understand the use and applications of mathematical concepts in programming. Lab topics covered many machine learning and optimization topics, including support vector machines, predictive modeling, principal component analysis, and neural networks.
+A course focused on matrix algebra and multivariable calculus, with weekly labs done in python to gain an understanding of the use and applications of mathematical concepts in programming. Lab topics covered many machine learning and optimization topics, including support vector machines, predictive modeling, principal component analysis, and neural networks.
 
 **STOR 320 - Introduction to Data Science**
 
