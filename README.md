@@ -13,7 +13,7 @@ A course focused on matrix algebra and multivariable calculus, with weekly labs 
 
 **STOR 320 - Introduction to Data Science**
 
-I did that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and that and
+A course providing comprehensive instruction in R and RStudio, with a focus on the full data analytics pipeline. Emphasis was placed on data acquisition, cleaning, transformation, exploratory analysis, and visualization. The course also covered principles of statistical inference and model building, alongside best practices for interpreting and communicating results effectively to both technical and non-technical audiences.
 
 **STOR 455 - Methods of Data Analysis**
 
