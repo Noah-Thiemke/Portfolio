@@ -3,6 +3,7 @@
 ## Education
 
 **The University of North Carolina at Chapel Hill (_May 2027_)**
+
 B.S., Statistics & Analytics | B.A., Economics | Data Science Minor
 
 ## Relevant Coursework
@@ -14,5 +15,6 @@ B.S., Statistics & Analytics | B.A., Economics | Data Science Minor
 ## Projects
 
 **Exploring Recency Bias and Predicting Winners in 3 Round Decision UFC Fights**
+
 Link to Publication 
 - this is what i did for this
